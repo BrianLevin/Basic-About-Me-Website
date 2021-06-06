@@ -9,26 +9,36 @@ A basic  HTML website  with some CSS that introduces who I am and lets the user 
  
  This is the home screen:
  
- ![Home Screenshot](client/images/home.png)
+ ![Home Screenshot](images/home.png)
  
- This is where the search bar is to type up what book the user is searching for:
  
-![Events Screenshot](client/images/search.png)
-  
-  
- The searched results will then show a variety of books:
+ ![Home Screenshot](images/home2.png) 
  
-  ![Events Screenshot](client/images/scroll1.png)
-  ![Events Screenshot](client/images/scroll2.png) 
+This is my hobbies page:
+ 
+![Events Screenshot](images/hobbies.png)
   
-  The user can then click on the book and view it and see options to view the books description, price, add to cart, add to wishlist, ect:
+  These are the links that are clicked to lead to articles  that pertain to my hobbies:
   
-  ![Events Screenshot](client/images/view.png)   
+ 
+  ![Events Screenshot](images/running.png)
+  ![Events Screenshot](images/mma.png) 
+  ![Events Screenshot](images/cooking.png)   
   
-  The user can also save books in the Google Book Search by clicking save and bring users to the saved books page:
+  This is the contact page
   
-  ![Events Screenshot](client/images/saved.png)  
+  ![Events Screenshot](images/contact.png)   
   
-  Users can also delete books in their saved results by clicking delete:
+  This is the email template   that pops up once the user clicks subit on the form:
   
-  ![Events Screenshot](client/images/delete.png)  
+  
+  ![Events Screenshot](images/email.png)  
+  
+  ## Libraries and Frameworks:
+
+- HTML
+- CSS
+
+## Email:
+
+bml201095@gmail.com

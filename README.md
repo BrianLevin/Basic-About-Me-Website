@@ -2,7 +2,7 @@
 
 ## Application description:
 
-A Basic website that introduces who I am and lets the user link to differant pages I have displayed. This includes my home page,  hobbies page, and contact page. Each link to the hobbies page brings the user to a article about the hobbie and the contact page uses a form action to allow the user to email the owner.
+A basic  HTML website  with some CSS that introduces who I am and lets the user link to differant pages I have displayed. This includes my home page,  hobbies page, and contact page. Each link to the hobbies page brings the user to a article about the hobbie and the contact page uses a form action to allow the user to email the owner.
  
 
  ## Click [here](https://google-book-search-app-finder.herokuapp.com/) for the live app. 
